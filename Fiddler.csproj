@@ -506,9 +506,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="Fiddler\SplashScreen.Designer.cs" />
-    <Compile Include="_PrivateImplementationDetails_{DB82010D-2232-41AC-9231-EB11E3667F05}.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <EmbeddedResource Include="Fiddler\Fiddler.Common.App.ico" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
